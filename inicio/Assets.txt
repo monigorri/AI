@@ -1,0 +1,7 @@
+Data Exploration
+Data Pre-processing 
+Classifying Hand Written Digits
+Predicting House Prices
+Pilot Distraction Prediction
+Distracted Driver Detection
+
